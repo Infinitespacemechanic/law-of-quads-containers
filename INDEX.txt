@@ -1,0 +1,3 @@
+Law of Quads — GitHub Bundle
+Contains: README, LICENSE, LAW PDF, INFOGRAPHIC HTMLs, EXHIBITS JPGs
+Push this entire folder to GitHub to lock down math with timestamp.
